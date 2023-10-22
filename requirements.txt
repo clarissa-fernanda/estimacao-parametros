@@ -1,0 +1,5 @@
+pyswarm
+pandas
+scipy
+matplotlib
+xlrd
